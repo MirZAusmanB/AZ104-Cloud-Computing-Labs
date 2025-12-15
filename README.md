@@ -40,3 +40,30 @@ Each lab has its own folder containing:
 - ✅ Task-by-task verification
 
 Example:
+
+---
+
+## 🧹 Cost Management
+
+All resources were deleted after lab completion to avoid unnecessary Azure charges.
+
+---
+
+## ✅ Conclusion
+
+These labs demonstrate hands-on experience with:
+- Identity & Access Management
+- Networking
+- Virtual Machines
+- PaaS & Containers
+- Monitoring & Alerts
+
+They collectively validate practical understanding of **Microsoft Azure administration**.
+
+---
+
+## 🔗 References
+
+- https://learn.microsoft.com/azure
+- https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
+
